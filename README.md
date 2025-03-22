@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to @GuMiklas's World!
 ## 🌟 About Me
-Hey there! I'm Günther, a cybersecurity enthusiast with a knack for phishing, digital forensics, secure system design, programming, networking, and much more. 
+Hey there! I'm a cybersecurity enthusiast with a knack for phishing, digital forensics, secure system design, programming, networking, and much more. 
 But yes... my passion lies in cybersecurity 💞️, and I'm always on the lookout for new challenges and opportunities to learn and grow.
 
 ## 🚀 Projects
