@@ -13,5 +13,7 @@ I'm always excited to connect with like-minded people! Feel free to reach out to
 
 ## 🎯 Fun Facts
 I enjoy experimenting with new recipes and cooking delicious meals 🍲.
+
 I really enjoy outdoor adventures and camping 🏕️.
+
 I love hitting the gym 🏋️‍♂️
